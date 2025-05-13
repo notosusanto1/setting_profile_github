@@ -12,3 +12,7 @@ My Github Profile
 - . Referensi Pembuatan Profile Readme :
 [1. Github Docs](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 [2. Youtube](https://www.youtube.com/watch?v=Z_Q9kzPUhVg)
+
+- . Tombol Windows + (.) untuk menampilkan emoticon
+- . Shift + tab untuk pindah ke drive folder yang sudah di ketikan
+ex: cd desktop lalu  pencet tombol shift + tab maka akan masuk ke folder tsb
